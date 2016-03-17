@@ -1,0 +1,28 @@
+name: CV Creations
+favicon: null
+layout_spectrum: 0.40390095417387784
+typography_spectrum: 0.34088078304193914
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9266980297397822
+  lightness: 0.4366737185046077
+  saturation: 0.24857974192127585
+  rhythmicContrast: 0.7592416426632553
+purpose: []
